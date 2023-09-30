@@ -68,6 +68,9 @@ restaurent/
 user : Mohamed HAZAMI
 pass : glpat-zyt932Wg3NNLKYy2fHud
 
+
+logicom-dev
+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
        
 
 #gitlab
