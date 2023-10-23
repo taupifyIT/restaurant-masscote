@@ -1,6 +1,5 @@
 # Restaurant Project
-test
-This repository contains the code for the Restaurant project.
+This repository contains the source code for the frontend of Mascotte Restaurant web application.
 ## Folder Structure
 restaurent/
 ├── client/
