@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: "193.203.166.21",
+    HOST: "193.203.166.99",
     USER: "u575385704_mascotteDB",
     PASSWORD: `Y!e6HS$A!q`,
     DB: "u575385704_mascotteDB",
