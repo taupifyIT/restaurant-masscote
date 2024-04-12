@@ -29,8 +29,7 @@
     "react-scripts": "5.0.1",
     "redux": "^4.2.1",
     "redux-thunk": "^2.4.2",
-    "web-vitals": "^2.1.4",
-    "multi-range-slider-react": "^2.0.2"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -64,5 +63,4 @@
     "production": "%REACT_APP_PROXY_PROD%",
     "development": "%REACT_APP_PROXY_DEV%"
   }
-
 }

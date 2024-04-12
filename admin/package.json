@@ -54,5 +54,4 @@
     "production": "%REACT_APP_PROXY_PROD%",
     "development": "%REACT_APP_PROXY_DEV%"
   }
-
 }
